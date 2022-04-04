@@ -1,1 +1,2 @@
-"Lok Wai Wong" 
+"Lok Wai Wong"
+wonglo@oregonstate.edu
