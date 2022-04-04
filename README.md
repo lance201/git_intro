@@ -1,2 +1,1 @@
-"Lok Wai Wong" 
-7
+"Lok Wai Wong"
